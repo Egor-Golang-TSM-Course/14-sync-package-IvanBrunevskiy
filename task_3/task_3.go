@@ -62,4 +62,9 @@ func StartTask3() {
 		fmt.Println(site, countVisit)
 		return true
 	})
+
+	//yandex.ru 76
+	//drive2.ru 49
+	//google.com 63
+
 }
